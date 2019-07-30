@@ -1,47 +1,47 @@
-@import "vars";
+// @import "vars";
 
 
-/*==========  Desktop First  ==========*/
+// /*==========  Desktop First  ==========*/
 
-// ≥1200px
-@include media-breakpoint-down(lg) {
+// // ≥1200px
+// @include media-breakpoint-down(lg) {
 
-}
+// }
 
-// ≥992px
-@include media-breakpoint-down(md) {
+// // ≥992px
+// @include media-breakpoint-down(md) {
 
-}
+// }
 
-// ≥768px
-@include media-breakpoint-down(sm) {
+// // ≥768px
+// @include media-breakpoint-down(sm) {
 
-}
+// }
 
-// ≥576px
-@include media-breakpoint-down(xs) {
+// // ≥576px
+// @include media-breakpoint-down(xs) {
 
-}
+// }
 
 
-/*==========  Mobile First  ==========*/
+// /*==========  Mobile First  ==========*/
 
-// ≤576px
-@include media-breakpoint-up(sm) {
+// // ≤576px
+// @include media-breakpoint-up(sm) {
 
-}
+// }
 
-// ≤768px
-@include media-breakpoint-up(md) {
+// // ≤768px
+// @include media-breakpoint-up(md) {
 
-}
+// }
 
-// ≤992px
-@include media-breakpoint-up(lg) {
+// // ≤992px
+// @include media-breakpoint-up(lg) {
 
-}
+// }
 
-// ≤1200px
-@include media-breakpoint-up(xl) {
+// // ≤1200px
+// @include media-breakpoint-up(xl) {
 
-}
+// }
